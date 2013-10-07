@@ -29,12 +29,12 @@ To run the app, you need todo:
  * Xcode version 4.3 and later
  * the open platform's app key and secret
  
-```ShareViewController.h
+```
 #define WX_AppID @"your webchat id"
 #define kSinaWeiboAppKey @"your weibo app key"
 #define kSinaWeiboAppSecret @"your weibo app secret"
 ```
-Replace the above placeholder with yours.
+Replace the above placeholder in "ShareViewController.h" with yours.
 
 ##License
 =========
