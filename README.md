@@ -38,6 +38,14 @@ To run the app, you need todo:
 ```
 Replace the above placeholder in "ShareViewController.h" with yours.
 
+
+##Contact
+=========
+Any problem, let me know:
+
+1. My Blog: [http://imtiger.net](http://imtiger.net/blog/2013/09/03/happyenglish-ios-app/)
+2. My weibo: [@krq_tiger](http://weibo.com/xmuzyq)
+
 ##License
 =========
 Copyright (c) 2013 imtiger. All rights reserved.
@@ -55,11 +63,4 @@ Copyright (c) 2013 imtiger. All rights reserved.
    limitations under the License.
 
 
-##Contact
-=========
-Any problem, let me know:
-
-1. My Blog: [http://imtiger.net](http://imtiger.net)
-2. My weibo: [@krq_tiger](http://weibo.com/xmuzyq)
-
-### Enjoy and have fun!
+##Enjoy and have fun!
