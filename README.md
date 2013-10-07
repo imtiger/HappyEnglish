@@ -7,7 +7,7 @@
 ###App Screenshots
 
 ![home page](http://a2.mzstatic.com/us/r30/Purple4/v4/26/ac/d9/26acd91a-9a76-e9cc-aa66-a6d97d5dd466/screen568x568.jpeg)
-
+![player ](http://a4.mzstatic.com/us/r30/Purple6/v4/88/5a/88/885a8896-e65e-7210-1564-355ed84a2eb3/screen568x568.jpeg)
 ###App info
 This app is an offical app of webchat (weixin) common account @"美剧英语每日一句(id:followmeapp)".
 
@@ -34,7 +34,7 @@ To run the app, you need todo:
 #define kSinaWeiboAppKey @"your weibo app key"
 #define kSinaWeiboAppSecret @"your weibo app secret"
 ```
-replace the above placeholder with yours.
+Replace the above placeholder with yours.
 
 ##License
 =========
