@@ -8,6 +8,8 @@
 
 ![home page](http://a2.mzstatic.com/us/r30/Purple4/v4/26/ac/d9/26acd91a-9a76-e9cc-aa66-a6d97d5dd466/screen568x568.jpeg)
 ![player ](http://a4.mzstatic.com/us/r30/Purple6/v4/88/5a/88/885a8896-e65e-7210-1564-355ed84a2eb3/screen568x568.jpeg)
+![translate](http://a1.mzstatic.com/us/r30/Purple4/v4/c3/bf/97/c3bf9751-6158-807f-c807-2fd697fadc73/mzl.lkxmrlju.png?downloadKey=1381738899_285d97d05ea3c64c7ded252154630ca6)
+![translate](http://a2.mzstatic.com/us/r30/Purple6/v4/b9/f8/35/b9f8358f-f5af-cd58-1eab-5a3d6e316bd5/mzl.tsexltav.png?downloadKey=1381738899_e38472cda638ca8d2abbe41ddb2e353f)
 ###App info
 This app is an offical app of webchat (weixin) common account @"美剧英语每日一句(id:followmeapp)".
 
