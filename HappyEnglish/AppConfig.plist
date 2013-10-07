@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>multiTipsDone</key>
+        <false/>
+        <key>singleTipsDone</key>
+        <false/>
+        <key>endNumber</key>
+        <integer>5</integer>
+        <key>startNumber</key>
+        <integer>1</integer>
+        <key>textFontSize</key>
+        <real>14</real>
+        <key>wifiAutoDownload</key>
+        <true/>
+        <key>skipIntroduction</key>
+        <false/>
+        <key>notificationOn</key>
+        <false/>
+        <key>notificationTime</key>
+        <date>2013-07-25T12:30:00Z</date>
+        <key>notificationRepeat</key>
+        <string>1|2|3|4|5</string>
+        <key>notificationMusic</key>
+        <string>default</string>
+        <key>episodeMode</key>
+        <integer>0</integer>
+        <key>episodePeriod</key>
+        <integer>1</integer>
+    </dict>
+</plist>
