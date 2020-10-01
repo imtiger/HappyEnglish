@@ -18,15 +18,15 @@ Visit the **iTunes** or **app stone** at [HappyEnglish's download URL](https://i
 
 ##Purpose
 =========
-First,When i studied ios development,i just find some usefull opensource apps,these apps help me a lot.so i wish this app can alos
-help the other people who want to study ios development.  
+First, When I studied ios development, i just find some useful opensource apps, these apps help me a lot.so i wish this app can alos
+help other people who want to study ios development.  
 
-In addition, using opensource,i just want the other guys can offer their code to this app,and make this app better and more usefull.
+In addition, using opensource,i just want the other guys can offer their code to this app,and make this app better and more useful.
 
 
 ##Run and Debug
 ===============
-To run the app, you need todo:
+To run the app, you need to do:
 
  * Xcode version 4.3 and later
  * the open platform's app key and secret
